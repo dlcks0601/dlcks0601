@@ -1,16 +1,21 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=230&section=header&text=leechan&desc=github%20profile&fontSize=60&animation=fadeIn&fontAlign=70&fontAlignY=30&descSize=30&descAlign=80&descAlignY=50)
 
-<!--
-**dlcks0601/dlcks0601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> History </h3>
+<br>
+<p align="center">
+   타입스크립트로 함께하는 웹 풀 사이클 개발(React, Node.js) 4기 (2024.08 ~ 2025.02)
+</p>
+<br>
+<br>
 
-Here are some ideas to get you started:
+<h3 align="center"> Tech Stack </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-fcd12a?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+</p>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thank%20You&fontSize=60&fontAlignY=70&fontAlign=80)
