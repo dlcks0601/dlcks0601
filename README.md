@@ -22,7 +22,7 @@
 
    ![leechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlcks0601&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=ffffff)
    <br>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlcks0601&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=ffffff)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlcks0601&layout=donut-vertical&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thank%20You&fontSize=60&fontAlignY=70&fontAlign=80)
