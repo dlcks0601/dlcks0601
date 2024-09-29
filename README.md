@@ -18,4 +18,6 @@
 <br>
 <br>
 
+![leechan GitHub stats](https://github-readme-stats.vercel.app/api?leechan=anuraghazra&show_icons=true&theme=radical)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thank%20You&fontSize=60&fontAlignY=70&fontAlign=80)
