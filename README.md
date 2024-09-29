@@ -18,12 +18,12 @@
 <br>
 <br>
 
-<h3 align="center" Stats " </h3>
-<p align = "center">
+<h3 align="center">Stats</h3>
+<p align="center">
 
-   ![leechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlcks0601&show_icons=true&theme=radical)
+   ![leechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlcks0601&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=ffffff)
    <br>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlcks0601&layout=compact&theme=radical)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlcks0601&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=ffffff)
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thank%20You&fontSize=60&fontAlignY=70&fontAlign=80)
