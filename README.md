@@ -20,8 +20,9 @@
 
 <h3 align="center" Stats " </h3>
 <p align = "center">
-   ![leechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlcks0601&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlcks0601&layout=compact&theme=radical)![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thank%20You&fontSize=60&fontAlignY=70&fontAlign=80)
+   ![leechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlcks0601&show_icons=true&theme=radical)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlcks0601&layout=compact&theme=radical)
 </p>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thank%20You&fontSize=60&fontAlignY=70&fontAlign=80)
