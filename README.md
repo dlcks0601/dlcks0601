@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=230&section=header&text=leechan&desc=github%20profile&fontSize=60&animation=fadeIn&fontAlign=70&fontAlignY=30&descSize=30&descAlign=80&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:d5d4d0,1:d5d4d0,31:eeeeec,75:efeeec,100:e9e9e7&height=300&section=header&text=leechan&fontSize=60&animation=fadeIn)
 
 <h3 align="center"> History </h3>
 <br>
@@ -20,9 +20,8 @@
 <h3 align="center">Stats</h3>
 <div align="center">
 
-   ![leechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlcks0601&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=ffffff)
-   <br>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlcks0601&layout=donut-vertical&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![leechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlcks0601&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=ffffff)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlcks0601&layout=donut-vertical&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thank%20You&fontSize=60&fontAlignY=70&fontAlign=80)
+</div>
