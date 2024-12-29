@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:323232,40:3F3F3F,100:1C1C1C&height=300&section=header&text=leechan&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
 
 #### 수상...🏆
-교내 캡스톤 대회 - 🥇 bopcon - 콘서트 셋리스트 💿 (대상)
+캡스톤 대회 - 🥇 bopcon - 콘서트 셋리스트 💿 (대상)
 
 
 #### 공부중... 🌳
