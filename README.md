@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:323232,40:3F3F3F,100:1C1C1C&height=300&section=header&text=leechan&fontSize=60&animation=fadeIn&fontColor=FFFFFF"/>
 </div>
 
-<h2 align="center">유저의 니즈를 코드로 명확하게 풀어내는 개발자, 이찬입니다</h2>
+<h2 align="start">유저의 니즈를 코드로 명확하게 풀어내는 개발자, 이찬입니다</h2>
 
 <p align="start">직관적인 UI/UX와 깔끔한 코드, 그리고 사용자 중심의 경험 설계에 집중합니다.<br/>
 일상 속 불편함을 발견하고, 유저의 상황에 몰입해 문제를 해결하는 제품을 기획하고 구현합니다.
