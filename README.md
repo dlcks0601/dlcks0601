@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=22&duration=2500&pause=800&color=808080&background=00000000&center=false&vCenter=false&multiline=true&repeat=true&width=800&height=140&lines=Hello%2C+I'm+a+Frontend+Developer.;Build+anything.+For+users.;Interested+in+creative+and+interactive+websites+and+apps." alt="Hello, I'm a Frontend Developer. Build anything. For users. Interested in creative and interactive websites and apps."/>
 </picture>
 
-## 이찬(leechan)
+## 이찬 (leechan)
 
 <p><b>Frontend engineer</b> who turns everyday user frictions into clear, working products, weighing both UX and DX — and, as the team shifts to an AX (AI transformation) workflow, builds the plugins and MCP servers that make everyone's work smoother.</p>
 
